@@ -1,0 +1,2 @@
+# BancTeam
+Proyecto backend intranet
